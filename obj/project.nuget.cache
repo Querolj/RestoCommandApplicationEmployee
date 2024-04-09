@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CeMUbXU0C1Zu03lq1liBm+C3vAA/b6XGiXecrr+AcSmXMmae72yvBE+A9sWnpMah98NHRenwQ2GNtiviWW4L4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jean\\Desktop\\repos\\Omosubi Projects\\RestoCommandApplicationEmployee\\RestoCommandApplicationEmployee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jean\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

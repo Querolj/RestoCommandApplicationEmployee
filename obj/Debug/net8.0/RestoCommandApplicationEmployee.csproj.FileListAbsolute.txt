@@ -1,0 +1,65 @@
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\bin\Debug\net8.0\appsettings.json
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.staticwebassets.runtime.json
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.exe
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.deps.json
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.runtimeconfig.json
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.dll
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.pdb
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.AssemblyInfoInputs.cache
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.AssemblyInfo.cs
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.RazorAssemblyInfo.cache
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.RazorAssemblyInfo.cs
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets\msbuild.RestoCommandApplicationEmployee.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets\msbuild.build.RestoCommandApplicationEmployee.props
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestoCommandApplicationEmployee.props
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestoCommandApplicationEmployee.props
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\scopedcss\bundle\RestoCommandApplicationEmployee.styles.css
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\scopedcss\projectbundle\RestoCommandApplicationEmployee.bundle.scp.css
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.dll
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\refint\RestoCommandApplicationEmployee.dll
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.pdb
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.genruntimeconfig.cache
+C:\Users\Jean\source\repos\RestoCommandApplicationEmployee\obj\Debug\net8.0\ref\RestoCommandApplicationEmployee.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\appsettings.json
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.staticwebassets.runtime.json
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.exe
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.deps.json
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.runtimeconfig.json
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandApplicationEmployee.pdb
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandModels.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\RestoCommandModels.pdb
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.AssemblyInfo.cs
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.RazorAssemblyInfo.cache
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.RazorAssemblyInfo.cs
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets\msbuild.RestoCommandApplicationEmployee.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets\msbuild.build.RestoCommandApplicationEmployee.props
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestoCommandApplicationEmployee.props
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestoCommandApplicationEmployee.props
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\scopedcss\bundle\RestoCommandApplicationEmployee.styles.css
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\scopedcss\projectbundle\RestoCommandApplicationEmployee.bundle.scp.css
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCom.A58211E1.Up2Date
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\refint\RestoCommandApplicationEmployee.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.pdb
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\RestoCommandApplicationEmployee.genruntimeconfig.cache
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\obj\Debug\net8.0\ref\RestoCommandApplicationEmployee.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandApplicationEmployee\bin\Debug\net8.0\Newtonsoft.Json.dll
